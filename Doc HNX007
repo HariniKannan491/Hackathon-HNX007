@@ -1,0 +1,39 @@
+Problem Statement 2: Disruption-Aware Logistics Planning
+Problem
+ROUND 1 – PROBLEM UNDERSTANDING & APPROACH
+
+
+Delivery operations are frequently affected by traffic, vehicle breakdowns, road closures, weather, driver availability, and delivery delays  A single disruption can affect multiple routes, deliveries, and activities.
+
+Proposed Solution
+We propose an AI-powered Disruption-Aware Logistics Planning System that not only detects disruptions but also understands their impact and adapts the existing plan.
+
+Innovation
+
+"Instead of simply detecting a disruption or creating a completely new route, our system identifies the smallest change required to stabilize the operation.”
+
+Solution Flow
+
+Detect Disruption
+↓  
+Map Affected Deliveries & Routes
+↓  
+Identify Dependencies & Impact
+↓  
+Prioritize Critical Issues
+↓  
+Generate & Compare Actions 
+↓  
+Create Minimum-Change Plan
+↓  
+Operator Approval
+
+Business Value
+
+Reduce Delays → Reduce Costs → Protect Revenue → Improve Customer Satisfaction → Increase Profitability
+
+Key Jury Questions:
+
+- What are the top 10 problems faced by delivery partners?
+- Who will pay for the solution and why?
+- How much cost or loss can the system help prevent?
